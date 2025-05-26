@@ -1,0 +1,16 @@
+:root {
+  --hueso: #eaeaea;
+  --rosa-pastel: #fadadd;
+  --cafecito: #fff2e2;
+  --salmon: #ffd6c9;
+  --lavanda: #eadcf8;
+  --pistache: #d5f4e6;
+  --cafe-oscuro: #bfa6a0;
+}
+
+body {
+  background-color: #fff2e2;
+}
+#navbar .navbar {
+  background-color: #ffd6c9 !important;
+}
