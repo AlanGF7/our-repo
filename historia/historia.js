@@ -2,7 +2,7 @@ const recuerdos = [
     {
       mes: "Marzo 2022",
       descripcion: "La primera vez que salimos 💕",
-      imagen: "https://picsum.photos/id/1011/500/300"
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/testito.jpg"
     },
     {
       mes: "Abril 2022",

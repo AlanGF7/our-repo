@@ -6,6 +6,7 @@
   --lavanda: #eadcf8;
   --pistache: #d5f4e6;
   --cafe-oscuro: #bfa6a0;
+  --cafe-oscuro-hover: #98827d;
 }
 
 body {
@@ -13,4 +14,62 @@ body {
 }
 #navbar .navbar {
   background-color: #ffd6c9 !important;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.card-img-top {
+  border-radius: 30px;
+  padding: 2px;
+}
+
+.image-hover {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-hover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: all 0.3s ease;
+}
+
+.image-hover .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 1.5rem;
+  text-align: center;
+  border-radius: 30px;
+  padding: 5px;
+}
+
+.image-hover:hover .overlay {
+  opacity: 1;
+}
+
+.card-button {
+  background-color: var(--cafe-oscuro);
+}
+
+.card-button:hover {
+  background-color: var(--cafe-oscuro-hover);
 }
