@@ -1,0 +1,51 @@
+.recuerdos-section {
+  padding: 2rem;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #ff69b4;
+}
+
+.postit-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.2rem;
+  justify-items: center;
+}
+
+.postit {
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 220px;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  transform: rotate(-2deg);
+  transition: transform 0.2s ease;
+}
+
+.postit:hover {
+  transform: rotate(0deg) scale(1.03);
+}
+
+.postit img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+
+.postit p {
+  font-size: 0.95rem;
+  color: #333;
+  margin: 0;
+}
+
+/* Responsive tweak */
+@media (max-width: 600px) {
+  .postit-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

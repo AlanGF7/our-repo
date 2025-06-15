@@ -1,0 +1,58 @@
+/* ANÉCDOTAS */
+.anecdotas-section {
+  padding: 2rem;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: var(--cafe-oscuro);
+}
+
+.anecdota-card {
+  display: flex;
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.anecdota-card:hover {
+  transform: scale(1.02);
+}
+
+.anecdota-card img {
+  width: 300px;
+  height: auto;
+  object-fit: cover;
+}
+
+.anecdota-text {
+  padding: 1.5rem;
+  flex: 1;
+}
+
+.anecdota-text h3 {
+  margin-top: 0;
+  color: #c2185b;
+}
+
+.anecdota-text p {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .anecdota-card {
+    flex-direction: column;
+  }
+
+  .anecdota-card img {
+    width: 100%;
+  }
+}
