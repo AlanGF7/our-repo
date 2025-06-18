@@ -7,10 +7,16 @@
   --pistache: #d5f4e6;
   --cafe-oscuro: #bfa6a0;
   --cafe-oscuro-hover: #98827d;
+  --amarillo: #fff3cd;
+  --azulito: #d1ecf1;
 }
 
 body {
   background-color: #fff2e2;
+}
+
+#inicio a {
+  color: var(--cafe-oscuro-hover);
 }
 #navbar .navbar {
   background-color: #ffd6c9 !important;
