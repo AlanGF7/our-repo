@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-    //fetch("/navbar/navbar.html")
-    fetch("/our-repo/navbar/navbar.html")
+    fetch("/navbar/navbar.html")
+    //fetch("/our-repo/navbar/navbar.html")
       .then(res => res.text())
       .then(data => {
         document.getElementById("navbar").innerHTML = data;
