@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-    fetch("navbar/navbar.html")
+    //fetch("navbar/navbar.html")
+    fetch("/our-repo/navbar/navbar.html")
       .then(res => {
         if (!res.ok) throw new Error(`Navbar no encontrado (status ${res.status})`);
         return res.text();
