@@ -1,13 +1,18 @@
 const recuerdos = [
     {
-      mes: "Marzo 2022",
-      descripcion: "La primera vez que salimos 💕",
-      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/testito.jpg"
+      mes: "Mayo 2021",
+      descripcion: "Como todo empezó 💕",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/ComoTodoEmpezó.jpg"
     },
     {
-      mes: "Abril 2022",
-      descripcion: "Fuimos al parque 🌳",
-      imagen: "https://picsum.photos/id/1025/500/300"
+      mes: "Febrero 2022",
+      descripcion: "Primera salida 📸",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/primerasalida.jpg"
+    },
+    {
+      mes: "Junio 2022",
+      descripcion: "Primera patinada",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/patinajehielo.jpg"
     },
     {
       mes: "Mayo 2022",
@@ -40,7 +45,7 @@ const recuerdos = [
     item.className = `timeline-item ${lado}`;
     item.innerHTML = `
       <div class="timeline-content shadow">
-        <h5>Mes ${index + 1} - ${recuerdo.mes}</h5>
+        <h5>${recuerdo.mes}</h5>
         <p>${recuerdo.descripcion}</p>
         <img src="${recuerdo.imagen}" alt="Recuerdo ${index + 1}">
       </div>
