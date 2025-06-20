@@ -10,19 +10,24 @@ const recuerdos = [
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/primerasalida.jpg"
     },
     {
+      mes: "Marzo 2022",
+      descripcion: "Antes de que nos dieran las 12 🕛",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/20220305_232850.jpg"
+    },
+    {
       mes: "Junio 2022",
-      descripcion: "Primera patinada",
+      descripcion: "Primera patinada 🛼",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/patinajehielo.jpg"
     },
     {
       mes: "Mayo 2022",
-      descripcion: "Nos tomamos esta foto ✨",
-      imagen: "https://picsum.photos/id/1035/500/300"
+      descripcion: "Apego evitativo 💔",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/ApegoEvitativo.jpg"
     },
     {
       mes: "Junio 2022",
-      descripcion: "Nuestro primer viaje juntos 🚗",
-      imagen: "https://picsum.photos/id/1062/500/300"
+      descripcion: "Nuestro inicio en esta aventura 💍",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/Pepito.jpg"
     },
     {
         mes: "Junio 2022",
