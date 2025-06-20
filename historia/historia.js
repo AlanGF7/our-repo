@@ -56,8 +56,48 @@ const recuerdos = [
     },
     {
       mes: "Noviembre 2022",
-      descripcion: "Nuestro mesiversario en Olive Garden 🍝",
+      descripcion: "Nuestros primeros disfraces 👻",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/TimmyTrixie2.jpg"
+    },
+    {
+      mes: "Noviembre 2022",
+      descripcion: "Nuestros primer viaje juntos (A Morat) 🚌",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/Morat.jpg"
+    },
+    {
+      mes: "Noviembre 2022",
+      descripcion: "Nuestro primer baile juntos 💃🕺 ",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/PrimerBaileJuntos.jpg"
+    },
+    {
+      mes: "Noviembre 2022",
+      descripcion: "Nuestro primer picnic 🏕️",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/PrimerPicnic.jpg"
+    },
+    {
+      mes: "Diciembre 2022",
+      descripcion: "Anillo de promesa 💍",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/PrimerAnilloPromesa.jpg"
+    },
+    {
+      mes: "Febrero 2023",
+      descripcion: "Anillo de promesa 🎙️",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/Bocelli2.jpg"
+    },
+    {
+      mes: "Marzo 2023",
+      descripcion: "Nuestro poderoso Maruchan-Ramen 🍝",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/MaruchanRamen.jpg"
+    },
+    {
+      mes: "Marzo 2023",
+      descripcion: "La vez que fuimos a ver 7 veces adiós 💑",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/7VecesAdios.jpg"
+    },
+    {
+      mes: "Mayo 2023",
+      descripcion: "Volvimos a bailar brujería 💃",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/Brujeria.jpg"
     },
     
     {
