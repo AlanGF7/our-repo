@@ -99,6 +99,11 @@ const recuerdos = [
       descripcion: "Volvimos a bailar brujería 💃",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/Brujeria.jpg"
     },
+    {
+      mes: "Mayo 2023",
+      descripcion: "🎂 ¡Nuestro primer aniversario! 🎂",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/PrimerAniversario.jpg"
+    },
     
     {
         mes: "Junio 2022",
