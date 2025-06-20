@@ -15,20 +15,51 @@ const recuerdos = [
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/20220305_232850.jpg"
     },
     {
-      mes: "Junio 2022",
-      descripcion: "Primera patinada 🛼",
-      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/patinajehielo.jpg"
-    },
-    {
       mes: "Mayo 2022",
       descripcion: "Apego evitativo 💔",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/ApegoEvitativo.jpg"
     },
     {
-      mes: "Junio 2022",
+      mes: "Mayo 2022",
       descripcion: "Nuestro inicio en esta aventura 💍",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/Pepito.jpg"
     },
+    {
+      mes: "Junio 2022",
+      descripcion: "Primera patinada (En tu pumpe) 🛼",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/patinajehielo.jpg"
+    },
+    {
+      mes: "Agosto 2022",
+      descripcion: "Nuestro reencuentro 💝",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/LasBrazas.jpg"
+    },
+    {
+      mes: "Agosto 2022",
+      descripcion: "Nuestra primera fiesta familiar 🥳",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/FiestaRichi.jpg"
+    },
+    {
+      mes: "Agosto 2022",
+      descripcion: "Primeros partidos ⚾",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/primerospartidos.jpg"
+    },
+    {
+      mes: "Septiembre 2022",
+      descripcion: "Primer cumpleaños Alan 🎂",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/CumpleAlan.jpg"
+    },
+    {
+      mes: "Octubre 2022",
+      descripcion: "Nuestro mesiversario en Olive Garden 🍝",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/MesiversarioOliveGarden.jpg"
+    },
+    {
+      mes: "Noviembre 2022",
+      descripcion: "Nuestro mesiversario en Olive Garden 🍝",
+      imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/galería/TimmyTrixie2.jpg"
+    },
+    
     {
         mes: "Junio 2022",
         descripcion: "Nuestro primer viaje juntos 🚗",
