@@ -103,19 +103,7 @@ const recuerdos = [
       mes: "Mayo 2023",
       descripcion: "🎂 ¡Nuestro primer aniversario! 🎂",
       imagen: "https://raw.githubusercontent.com/AlanGF7/our-repo/main/assets/primeras_fotos/PrimerAniversario.jpg"
-    },
-    
-    {
-        mes: "Junio 2022",
-        descripcion: "Nuestro primer viaje juntos 🚗",
-        imagen: "https://picsum.photos/id/1062/500/300"
-      },
-      {
-        mes: "Junio 2022",
-        descripcion: "Nuestro primer viaje juntos 🚗",
-        imagen: "https://picsum.photos/id/1062/500/300"
-      }
-    // Agrega más objetos aquí conforme vayas sumando recuerdos
+    }
   ];
 
   const timeline = document.getElementById("timeline");
