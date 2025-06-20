@@ -19,7 +19,8 @@ body {
 #inicio a {
   color: var(--cafe-oscuro-hover);
 }
-#navbar .navbar {
+#navbar {
+  /*.navbar {*/
   background-color: #ffd6c9 !important;
 }
 
