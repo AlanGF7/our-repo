@@ -13,8 +13,8 @@ body {
 }
 
 .envelope {
-  width: 300px;
-  height: 200px;
+  width: 500px;
+  height: 400px;
   background: #f08080;
   position: relative;
   cursor: pointer;
@@ -63,4 +63,23 @@ button {
 
 button:hover {
   background: #e76f6f;
+}
+
+.heart {
+  position: fixed;
+  bottom: -20px;
+  font-size: 24px;
+  animation: floatUp ease-in forwards;
+  pointer-events: none;
+}
+
+@keyframes floatUp {
+  from {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-100vh) scale(1.5);
+    opacity: 0;
+  }
 }
